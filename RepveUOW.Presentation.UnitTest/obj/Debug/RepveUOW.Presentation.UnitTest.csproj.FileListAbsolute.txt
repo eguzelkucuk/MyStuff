@@ -1,0 +1,15 @@
+C:\Users\erkanguzzelkucuk\Desktop\RepveUOW\RepveUOW.Presentation.UnitTest\bin\Debug\RepveUOW.Presentation.UnitTest.dll
+C:\Users\erkanguzzelkucuk\Desktop\RepveUOW\RepveUOW.Presentation.UnitTest\bin\Debug\RepveUOW.Presentation.UnitTest.pdb
+C:\Users\erkanguzzelkucuk\Desktop\RepveUOW\RepveUOW.Presentation.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\erkanguzzelkucuk\Desktop\RepveUOW\RepveUOW.Presentation.UnitTest\bin\Debug\RepveUOW.Data.dll
+C:\Users\erkanguzzelkucuk\Desktop\RepveUOW\RepveUOW.Presentation.UnitTest\bin\Debug\RepveUOW.Data.Model.dll
+C:\Users\erkanguzzelkucuk\Desktop\RepveUOW\RepveUOW.Presentation.UnitTest\bin\Debug\EntityFramework.dll
+C:\Users\erkanguzzelkucuk\Desktop\RepveUOW\RepveUOW.Presentation.UnitTest\bin\Debug\RepveUOW.Data.Model.pdb
+C:\Users\erkanguzzelkucuk\Desktop\RepveUOW\RepveUOW.Presentation.UnitTest\bin\Debug\RepveUOW.Data.pdb
+C:\Users\erkanguzzelkucuk\Desktop\RepveUOW\RepveUOW.Presentation.UnitTest\bin\Debug\EntityFramework.xml
+C:\Users\erkanguzzelkucuk\Desktop\RepveUOW\RepveUOW.Presentation.UnitTest\obj\Debug\RepveUOW.Presentation.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\erkanguzzelkucuk\Desktop\RepveUOW\RepveUOW.Presentation.UnitTest\obj\Debug\RepveUOW.Presentation.UnitTest.dll
+C:\Users\erkanguzzelkucuk\Desktop\RepveUOW\RepveUOW.Presentation.UnitTest\obj\Debug\RepveUOW.Presentation.UnitTest.pdb
+C:\Users\erkanguzzelkucuk\Desktop\RepveUOW\RepveUOW.Presentation.UnitTest\bin\Debug\RepveUOW.Presentation.UnitTest.dll.config
+C:\Users\erkanguzzelkucuk\Desktop\RepveUOW\RepveUOW.Presentation.UnitTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\erkanguzzelkucuk\Desktop\RepveUOW\RepveUOW.Presentation.UnitTest\bin\Debug\EntityFramework.SqlServer.xml

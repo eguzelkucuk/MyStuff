@@ -1,0 +1,5 @@
+C:\Users\erkanguzzelkucuk\Desktop\RepveUOW\RepveUOW.Data.Model\bin\Debug\RepveUOW.Data.Model.dll
+C:\Users\erkanguzzelkucuk\Desktop\RepveUOW\RepveUOW.Data.Model\bin\Debug\RepveUOW.Data.Model.pdb
+C:\Users\erkanguzzelkucuk\Desktop\RepveUOW\RepveUOW.Data.Model\obj\Debug\RepveUOW.Data.Model.dll
+C:\Users\erkanguzzelkucuk\Desktop\RepveUOW\RepveUOW.Data.Model\obj\Debug\RepveUOW.Data.Model.pdb
+C:\Users\erkanguzzelkucuk\Desktop\RepveUOW\RepveUOW.Data.Model\bin\Debug\RepveUOW.Data.Model.dll.config
